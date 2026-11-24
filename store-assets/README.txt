@@ -1,0 +1,1 @@
+CALCORA store artwork and app preview images. Verify Microsoft Store current image dimensions and package requirements before submission.
