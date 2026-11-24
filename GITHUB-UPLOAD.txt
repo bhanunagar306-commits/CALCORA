@@ -1,0 +1,6 @@
+1. Create a public repository named calcora.
+2. Upload the CONTENTS of this folder to the repository root (not the outer CALCORA folder).
+3. Keep index.html at repository root.
+4. Settings > Pages > Deploy from branch > main > /(root).
+5. Wait for deployment and open the HTTPS URL.
+6. Test install and offline mode before sharing.
